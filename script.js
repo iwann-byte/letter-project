@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `mengaplikasikan virus ke server di mulai.\nmemproses 2%.\n\nmemproses 40%“:).”\n\nmemproses 70%\n\nmemrposes 90%."\n\nberhasil unhacking 082275947102. selamat menikmati harimu iwan rejeki;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
